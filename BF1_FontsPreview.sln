@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31313.79
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BF1_FontsPreview", "BF1_FontsPreview.csproj", "{1F12059E-AFC8-4903-BFF2-6DA1F724DEBB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1F12059E-AFC8-4903-BFF2-6DA1F724DEBB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F12059E-AFC8-4903-BFF2-6DA1F724DEBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F12059E-AFC8-4903-BFF2-6DA1F724DEBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F12059E-AFC8-4903-BFF2-6DA1F724DEBB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {601B9DB5-AF5D-45CC-8EB6-DE82A0379B13}
+	EndGlobalSection
+EndGlobal
